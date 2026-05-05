@@ -114,4 +114,6 @@ Os graficos serao salvos em `output/charts/` e o relatorio esta em `output/repor
 
 ## Autores
 
-Tech Challenge - Pos-graduacao
+Giovanna Palumbo
+Nathan Tanabe
+
